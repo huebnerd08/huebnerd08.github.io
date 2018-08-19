@@ -1,0 +1,128 @@
+<html>
+    <style>
+
+html {
+    height: 100%;
+  }
+
+  body {
+     width: 100%;
+  }
+
+  header {
+      background-color: rgba(245, 238, 238, 0.938);
+      color: black;
+      padding: 5px;
+      text-align: center;
+      font-size: 40px;
+      font: bold;
+      display: block;
+      width: 100%;
+          
+  }
+  nav {
+      background-color: whitesmoke;
+      width:100%;
+      display: inline-block;
+      vertical-align: top;
+      Font-size: 18px;
+  }
+
+  ul {
+    text-align: center;
+
+
+  }
+ 
+  li {
+     display: inline;
+     padding: 10px;
+  }
+  h1 {
+      font-size: 18;
+  }
+  h2 {
+      font-size: 18;
+  }
+  section {
+      width: 600px;
+      display: inline-block;
+      padding: 10px;
+  }
+
+  img {
+      width: 600px;
+  }
+
+  footer {
+      width: 100%;
+      background-color: black;
+      color: white;
+      text-align: center;
+      display: block;
+  }
+        
+    </style>
+<!-- Title of our website is City Snooze -->
+ <head>
+     <title>City Snooze</title>
+ </head>
+
+<body>
+
+<header>
+    <h1>City Snooze</h1>
+</header>
+
+<nav>
+    <a href="index.html"> Home</a>
+    <a href="Aboutus.htoml"> About us</a>
+    <a href="Locate a nap space"> Locate a nap space</a>
+    <a href="Pricing"> Pricing</a>
+    <a href="Contact us"> Contact us</a>
+ <ul> 
+     <li>
+         Our Mission
+     </li>
+     <li>
+         About us
+     </li>
+     <li>
+         Explore city snooze testimonies
+     </li>
+
+ </ul>
+</nav>
+
+<section>
+    <h1>
+        Our mission
+    </h1>
+
+    <img src="guy nap.jpg"/>
+
+    <p>
+        Our mission at City Snooze is to create a safe and compfortable space to recharge. 
+    </p>
+
+    <h2>
+        About us
+    </h2>
+    <p>
+        <strong>City Snooze</strong> offers sound proof capsule units to Seattleites seeking a quiet space to rest, relex and recharge.
+    </p>
+    <h3>
+        Explore
+    </h3>
+    <p>
+        Testimonies...
+    </p>
+
+</section>
+<footer>
+ Pong @ 1972 - 2018
+ Powered by Tri-Horse
+</footer>
+</body>
+
+</html>

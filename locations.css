@@ -1,0 +1,97 @@
+        h1
+        {
+            font-size: 100px;
+            display: block;
+            color: white;
+            background-color:black;
+            text-align: center;
+            font-family: Fantasy;
+            margin: 0%;
+            border: ridge #323332 10px;
+            width:95%;
+        }
+        h2
+        {
+            text-align: center;
+            text-decoration: underline;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 2.2em;
+        }
+        h3
+        {
+            text-align:center;
+            font-family: monospace;
+            font-size: 40px;
+            font-style: italic;
+        }
+        section
+        {
+            padding-left: 50px;
+            width: 60%;
+            float: left;
+            font-size: 1.15em;
+        }
+        body
+        {
+            display:inline-block;
+            width: 100%;
+            
+        }
+        nav 
+        {
+            margin: 0%;
+            width: 95%;
+            height: 40px;
+            color: floralwhite;
+            background-color: black;
+            padding-top: 20px;
+            border: ridge #323332 10px;
+        }
+        nav a
+        {
+            color: white;
+            text-decoration: none;
+            padding-left: 150px;
+        }
+        nav ul
+        {
+            background-color: pink;
+        }
+        nav li
+        {
+            border: white 1px solid;
+            background-color: pink;
+        }
+        img
+        {
+            width:225px;
+            background-position: center;
+            align: right;
+            border: ridge #323332 10px;
+        }
+        aside
+        {
+            background-color:grey;
+            width: 20%;
+            display: inline-block;
+            font-size: 28px;
+            float: left;
+            height: 140px;
+            border: ridge #323332 10px;
+            padding-top: 5px;
+            margin: 0px;
+        }
+        aside a
+        {
+            color:whitesmoke;
+            text-decoration: none;
+            font-size: 20px;
+            font-family: 'Times New Roman', Times, serif;
+            padding-top: 200px;
+        }
+        footer
+        {
+            width: 95%;
+            border: ridge #323332 5px;
+            clear: both;
+        }
